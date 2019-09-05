@@ -1,5 +1,4 @@
 const EventEmitter = require('events');
-
 const emmiter = new EventEmitter();
 
 // register a listener (same as emmiter.addListener)
